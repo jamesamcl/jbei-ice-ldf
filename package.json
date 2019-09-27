@@ -1,0 +1,12 @@
+{
+  "name": "jbei-ice-ldf",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "@types/node": "^12.7.5",
+    "bioterms": "^0.9.0",
+    "typescript": "^3.5.3",
+    "url-join": "^4.0.1"
+  }
+}
